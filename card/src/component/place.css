@@ -1,0 +1,43 @@
+.upc{
+    width: 350px;
+    margin: 20px;
+    border-radius: 10px 10px;
+    padding-bottom:20px ;
+    background-color: rgb(185, 248, 250);
+}
+.gradiant{
+    background-color: rgb(55, 82, 104);
+    height: 125px;
+    border-radius: 10px 10px 0 0;
+}
+.profile-down img{
+    height: 150px;
+    border-radius: 100px;
+    margin-top: -75px;
+    padding: 5px;
+    background-color: rgb(103, 131, 143);
+}
+.profile-title{
+    font-size: 36px;
+    font-weight: 600;
+}
+.profile-description{
+    font-size: 16px;
+    padding: 20px 40px;
+}
+.profile-button{
+    font-size: 16px;
+    background-color: rgb(41, 41, 168);
+    margin: 10px 100px;
+    padding-top: 8px;
+    padding-bottom: 10px;
+    border-radius: 40px;
+
+}
+.profile-button:hover{
+    background-color: rgb(43, 43, 125);
+}
+a{
+    text-decoration: none;
+    color: white;
+}
